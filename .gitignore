@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# 환경변수 및 민감 정보
+backend/.env
+.env
+*.env
+
+# 데이터베이스 관련 민감 정보
+**/db_login.txt
+**/db_password.txt
+**/database_credentials.txt
+**/db_config.txt
+**/simlog_db_login.txt
+**/simlog_db_password.txt
+**/database_info.txt
+
+# 가상환경
+venv/
+backend/venv/
+
+# IDE
+.idea/
+*.iml
+
+# 기타
+.DS_Store
+
+# 로그 파일
+*.log
+logs/
+
+# 임시 파일
+*.tmp
+*.temp
+temp/
+
+# 백업 파일
+*.bak
+*.backup
+
+# API 키 및 인증 정보
+**/api_keys.txt
+**/credentials.txt
+**/secrets.txt
+**/config_secret.txt 
