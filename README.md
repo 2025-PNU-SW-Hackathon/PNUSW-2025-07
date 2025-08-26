@@ -360,7 +360,7 @@ flutter pub get
 
 </div>
 
-**프로젝트 소개 동영상**: 교육원 메일(swedu@pusan.ac.kr)로 제출 후 센터에서 부여받은 YouTube URL 주소를 여기에 추가 예정
+**프로젝트 소개 동영상**: https://youtu.be/2i2YJWFWQY4
 
 ### 5.2. 앱 스크린샷
 
