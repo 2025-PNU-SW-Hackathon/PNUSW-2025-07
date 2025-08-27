@@ -356,9 +356,7 @@ flutter pub get
 
 <div align="center">
 
-[![SimLog 시연 영상](https://img.youtube.com/vi/6Zve5oCCCCk/maxresdefault.jpg)](https://youtube.com/shorts/6Zve5oCCCCk?feature=share)
-
-**SimLog 어플 시연 영상** - [YouTube Shorts로 보기](https://youtube.com/shorts/6Zve5oCCCCk?feature=share)
+[![SimLog 시연 영상](https://img.youtube.com/vi/6Zve5oCCCCk/maxresdefault.jpg)](https://youtu.be/2i2YJWFWQY4?si=Ct0KM2s2Bl_sqM0n)
 
 </div>
 
