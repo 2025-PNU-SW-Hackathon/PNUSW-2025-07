@@ -490,3 +490,31 @@ AI로 사람의 감정을 분석한다는 것이 처음엔 막막하기도 했�
 ---
 
 *SimLog는 AI가 몰랐던 내 마음을 읽어주는 혁신적인 모바일 애플리케이션입니다. 부산대학교 학생의 마음 건강을 지켜주는 혁신적 솔루션으로, 현재는 부산대학교를 시작으로, 향후 다양한 기관과의 연계를 통해 더 많은 사람들에게 마음 건강 관리 서비스를 제공할 예정입니다.*
+
+---
+
+## 9. 출처
+
+### 뉴스 및 언론 자료
+- SBS 뉴스, 「"뭘 해야 하나"…마음의 병 앓는 '코로나 학번', 2024.09.12
+- "우울증 혼자 해결 가능"…우울한 성인 25%, 진료 의지 없어 2024.05.16 10:36
+- 출처: https://www.imaeil.com/page/view/2024091814245941440
+
+### 학술 자료
+- Sohal et al., 2022, Family Medicine and Community Health
+
+### 시장 조사 자료
+- Market Research Future (MRFR), Digital Journal Apps Market Report, marketresearchfuture.com
+
+### 기업 정보
+- THE VC, 블루시그넘 기업정보 (thevc.kr/bluesignum)
+
+### 정부 자료
+- 보건복지부, 2025년 보건복지부 예산안 발표 자료, https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1482883&mid=a10503000000
+- 보건복지부, 「정신건강정책 혁신방안」 (2023.12), https://www.mohw.go.kr/board.es?act=view&bid=0027&list_no=1479142&mid=a10503000000&nPage=1
+
+### 심리학 자료
+- https://www.psychologytoday.com/us/blog/commit/202411/the-emotion-wheel
+
+---
+
