@@ -419,7 +419,7 @@ flutter pub get
 |------|------|-----------|--------|
 | **안나연** | 팀장, 기획 | 서비스 흐름 설계 | [annaaa4701@gmail.com](mailto:annaaa4701@gmail.com) |
 | **김율겸** | 기획 | 시장 리서치, 프로젝트 방향성 설정 | [myblog0113@naver.com](mailto:myblog0113@naver.com) |
-| **문진혁**  | 전체 앱 개발 | Backend, Frontend, 디자인 | [octopus121@pusan.ac.kr](mailto:octopus121@pusan.ac.kr) |
+| **문진혁**  | 앱 개발 | Backend, Frontend, 디자인 | [octopus121@pusan.ac.kr](mailto:octopus121@pusan.ac.kr) |
 | **황연경** | 초기 자료 조사 | 초기 아이디어 선정에 필요한 자료 조사 | [awkward8787@pusan.ac.kr](mailto:awkward8787@pusan.ac.kr) |
 
 ### 팀 소개
