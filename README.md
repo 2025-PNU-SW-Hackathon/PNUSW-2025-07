@@ -298,7 +298,7 @@ SimLog/
 #### 1. 백엔드 설치
 ```bash
 # 프로젝트 클론
-git clone https://github.com/wlsgur11/SimLog
+git clone https://github.com/2025-PNU-SW-Hackathon/PNUSW-2025-SimLog-07.git
 cd SimLog/backend
 
 # 가상환경 생성 및 활성화
