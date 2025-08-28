@@ -9,17 +9,6 @@
 감정 표현이 서툰 청년층을 위한 비대면·비실명 감정 기록 및 AI 기반 피드백 시스템
 </div>
 
----
-## 🎥 시연 영상
-
-<div align="center">
-
-[![SimLog 시연 영상](https://img.youtube.com/vi/6Zve5oCCCCk/maxresdefault.jpg)](https://youtu.be/2i2YJWFWQY4)
-
-
-**SimLog 어플 시연 영상** - [YouTube로 보기](https://youtu.be/2i2YJWFWQY4)
-
-</div>
 
 ---
 
